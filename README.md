@@ -16,6 +16,7 @@ FileTimeBasedCleaner is a C++ application designed to delete files and directori
 The application expects the age limit in the format of days, hours, and minutes. For example:
 
 `Enter the directory path: /path/to/directory`
+
 `Enter the age limit (days hours minutes): 0 2 30`
 
 This will delete all files and directories older than 2 hours and 30 minutes in the specified path.
