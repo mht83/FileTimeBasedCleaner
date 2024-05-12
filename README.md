@@ -20,3 +20,15 @@ The application expects the age limit in the format of days, hours, and minutes.
 `Enter the age limit (days hours minutes): 0 2 30`
 
 This will delete all files and directories older than 2 hours and 30 minutes in the specified path.
+
+## Warning
+This tool performs deletions of files and directories. Please use it with caution and ensure that you have appropriate backups before running it on important data.
+
+## Contributing
+Contributions to CppStringJoiner are welcome. Please feel free to fork the repository, make improvements, and submit pull requests.
+
+## Contact
+If you have any questions, suggestions, or contributions, please open an issue in the repository.
+
+## Author
+- mht83
